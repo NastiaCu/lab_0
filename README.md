@@ -16,8 +16,7 @@
 <img width="564" alt="git remote" src="https://user-images.githubusercontent.com/96084704/189633848-663f0955-12b2-45ad-b3a3-c111df2c3fc0.png">
 
 
-<img width="560" alt="compiling" src="https://user-images.githubusercontent.com/96084704/189633246-3366bd6a-116d-4b5f-8a2c-db3929a373f4.png">
-
-
 <img width="511" alt="git push" src="https://user-images.githubusercontent.com/96084704/189633285-c24e0c6d-5f57-4c33-b216-366de495fa71.png">
 
+
+<img width="560" alt="compiling" src="https://user-images.githubusercontent.com/96084704/189633246-3366bd6a-116d-4b5f-8a2c-db3929a373f4.png">
