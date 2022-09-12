@@ -1,6 +1,8 @@
-# lab_0!
+## lab_0!
+| Anastasia Cunev
+| FAF-211
 
-Installing `zsh` and `oh my zsh` as a default shell.
+# Installing `zsh` and `oh my zsh` as a default shell.
 
 ```
 brew install zsh 
@@ -12,7 +14,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 
 
-Creating a new folder "lab_0" with `mkdir lab_0` and initializing empty git repository with `git init`.
+# Creating a new folder "lab_0" with `mkdir lab_0` and initializing empty git repository with `git init`.
 
 
 
@@ -20,7 +22,7 @@ Creating a new folder "lab_0" with `mkdir lab_0` and initializing empty git repo
 
 
 
-Creating a programm "Hello world" in `C` using command `nano`
+# Creating a programm "Hello world" in `C` using command `nano`
 
 
 
@@ -28,7 +30,7 @@ Creating a programm "Hello world" in `C` using command `nano`
 
 
 
-Commiting `C` file using  `git commit`
+# Commiting `C` file using  `git commit`
 
 
 
@@ -36,7 +38,7 @@ Commiting `C` file using  `git commit`
 
 
 
-Connecting local git repository and repository on GitHub and pushing `C file` on GitHub
+# Connecting local git repository and repository on GitHub and pushing `C file` on GitHub
 
 ```
 git remote add origin
@@ -54,15 +56,15 @@ git push -u origin main
 
 
 
-In this makefile we have two targets: `build` and `run`.
+# In this makefile we have two targets: `build` and `run`.
 
-Target `build` has two commands, which help us to build the `C` program and display the message after the compilation is done successfully:
+# Target `build` has two commands, which help us to build the `C` program and display the message after the compilation is done successfully:
 
 ```
 @gcc $(source_name) -o $(executable_name)
 @echo "Compilation done."
 ```
-Target `run` has one command, which displays the output of the program:
+# Target `run` has one command, which displays the output of the program:
 
 ```
 @./$(executable_name)
@@ -74,7 +76,7 @@ Target `run` has one command, which displays the output of the program:
 
 
 
-We can use the `cat makefile` command to see the code, command `make build` bo compile the `Hello World` program, `make run` to run it or `make` to build and run.
+# We can use the `cat makefile` command to see the code, command `make build` bo compile the `Hello World` program, `make run` to run it or `make` to build and run.
 
 
 
