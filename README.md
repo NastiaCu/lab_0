@@ -2,6 +2,11 @@
 
 Installing "oh my zsh" as a default shell.
 
+```
+brew install zsh 
+brew install oh my zsh
+```
+
 <img width="581" alt="zsh" src="https://user-images.githubusercontent.com/96084704/189631406-5cde63c7-17d1-4a4e-8118-39b8292fa2d7.png">
 
 Creating a new folder "lab_0" with `mkdir lab_0` and initializing empty git repository with `git init`.
