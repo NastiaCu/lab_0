@@ -4,6 +4,7 @@ Installing "oh my zsh" as a default shell.
 
 ```
 brew install zsh 
+chsh -s /usr/local/bin/zsh
 brew install oh my zsh
 ```
 
