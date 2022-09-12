@@ -41,5 +41,10 @@ git push -u origin main
 
 <img width="511" alt="git push" src="https://user-images.githubusercontent.com/96084704/189633285-c24e0c6d-5f57-4c33-b216-366de495fa71.png">
 
+<img width="553" alt="makefile" src="https://user-images.githubusercontent.com/96084704/189666921-614742c4-d376-4666-9fad-bbefc18be4dd.png">
+
+
+<img width="560" alt="build_run" src="https://user-images.githubusercontent.com/96084704/189667048-b203f47a-316d-4fd8-9c4f-091cdfb2e094.png">
+
 
 <img width="564" alt="Compilation" src="https://user-images.githubusercontent.com/96084704/189655905-01c1c4b5-f3df-4eca-af73-3a906755822b.png">
