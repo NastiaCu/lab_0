@@ -4,11 +4,11 @@ Installing "oh my zsh" as a default shell.
 
 <img width="581" alt="zsh" src="https://user-images.githubusercontent.com/96084704/189631406-5cde63c7-17d1-4a4e-8118-39b8292fa2d7.png">
 
-Creating a new folder "lab_0" and initializing empty git repository.
+Creating a new folder "lab_0" with `mkdir lab_0` and initializing empty git repository with `git init`.
 
 <img width="567" alt="git init" src="https://user-images.githubusercontent.com/96084704/189633147-3f2e38c8-0822-4999-b187-3d738baddddd.png">
 
-Creating a programm "Hello world" in `c` using command `nano`
+Creating a programm "Hello world" in `C` using command `nano`
 
 <img width="561" alt="HelloWorld" src="https://user-images.githubusercontent.com/96084704/189633181-168b3901-c256-46c5-942f-18301cc20e54.png">
 
