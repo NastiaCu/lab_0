@@ -5,7 +5,7 @@ Installing "oh my zsh" as a default shell.
 ```
 brew install zsh 
 chsh -s /usr/local/bin/zsh
-brew install oh my zsh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 <img width="581" alt="zsh" src="https://user-images.githubusercontent.com/96084704/189631406-5cde63c7-17d1-4a4e-8118-39b8292fa2d7.png">
