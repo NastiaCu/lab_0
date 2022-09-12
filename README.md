@@ -43,10 +43,14 @@ git push -u origin main
 
 <img width="581" alt="makefile" src="https://user-images.githubusercontent.com/96084704/189666921-614742c4-d376-4666-9fad-bbefc18be4dd.png">
 
-To display that the program was build we use:
+In this makefile we have two targets: `build` and `run`.
+Target `build` has two commands, which help us to build the `C` program and display the message after the compilation is done successfully:
+
 ```
-@echo "Compilation done!"
+  @gcc $(source_name) -o $(executable_name)
+	@echo "Compilation done."
 ```
+
 <img width="558" alt="Снимок экрана 2022-09-12 в 17 36 23" src="https://user-images.githubusercontent.com/96084704/189682433-17083cb3-4acc-46a0-8166-cb32e49311ab.png">
 
 
