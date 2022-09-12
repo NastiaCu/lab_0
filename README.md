@@ -1,6 +1,6 @@
-## lab_0!
-|| Anastasia Cunev
-|| FAF-211
+# lab_0!
+> Anastasia Cunev
+> FAF-211
 
 Installing `zsh` and `oh my zsh` as a default shell.
 
@@ -46,7 +46,7 @@ git push -u origin main
 <img width="581" alt="git push" src="https://user-images.githubusercontent.com/96084704/189633285-c24e0c6d-5f57-4c33-b216-366de495fa71.png">
 
 
-In this makefile we have two targets: `build` and `run`.
+In the makefile we have two targets: `build` and `run`.
 
 Target `build` has two commands, which help us to build the `C` program and display the message after the compilation is done successfully:
 
