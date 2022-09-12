@@ -42,4 +42,4 @@ git push -u origin main
 <img width="511" alt="git push" src="https://user-images.githubusercontent.com/96084704/189633285-c24e0c6d-5f57-4c33-b216-366de495fa71.png">
 
 
-<img width="560" alt="compiling" src="https://user-images.githubusercontent.com/96084704/189633246-3366bd6a-116d-4b5f-8a2c-db3929a373f4.png">
+<img width="564" alt="Compilation" src="https://user-images.githubusercontent.com/96084704/189655905-01c1c4b5-f3df-4eca-af73-3a906755822b.png">
