@@ -22,9 +22,13 @@ Creating a programm "Hello world" in `C` using command `nano`
 
 <img width="561" alt="HelloWorld" src="https://user-images.githubusercontent.com/96084704/189633181-168b3901-c256-46c5-942f-18301cc20e54.png">
 
-Commiting `C` file using  `git commit -m`
+
+Commiting `C` file using  `git commit`
+
+
 <img width="565" alt="first commit" src="https://user-images.githubusercontent.com/96084704/189633205-13978744-c8f8-4d6a-b1db-5aeefcfc872b.png">
 
+Using `git remote` to 
 
 <img width="564" alt="git remote" src="https://user-images.githubusercontent.com/96084704/189633848-663f0955-12b2-45ad-b3a3-c111df2c3fc0.png">
 
