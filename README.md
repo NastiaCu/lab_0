@@ -30,7 +30,8 @@ Commiting `C` file using  `git commit`
 
 Connecting local git repository and repository on GitHub and pushing `C file` on GitHub
 
-```git remote add origin
+```
+git remote add origin
 git branch -M main
 git push -u origin main
 ```
