@@ -1,6 +1,6 @@
 # lab_0!
 
-
+Installing "oh my zsh" as a default shell.
 <img width="581" alt="zsh" src="https://user-images.githubusercontent.com/96084704/189631406-5cde63c7-17d1-4a4e-8118-39b8292fa2d7.png">
 
 
