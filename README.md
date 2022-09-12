@@ -1,6 +1,6 @@
 # lab_0!
 
-Installing "oh my zsh" as a default shell.
+Installing `zsh` and `oh my zsh` as a default shell.
 
 ```
 brew install zsh 
