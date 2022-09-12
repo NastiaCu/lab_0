@@ -8,7 +8,8 @@ Creating a new folder "lab_0" and initializing empty git repository.
 
 <img width="567" alt="git init" src="https://user-images.githubusercontent.com/96084704/189633147-3f2e38c8-0822-4999-b187-3d738baddddd.png">
 
-Creating a c file "Hello world" using command 'nano'
+Creating a c file "Hello world" using command `nano`
+
 <img width="561" alt="HelloWorld" src="https://user-images.githubusercontent.com/96084704/189633181-168b3901-c256-46c5-942f-18301cc20e54.png">
 
 
