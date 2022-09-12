@@ -1,5 +1,6 @@
 # lab_0!
 > Anastasia Cunev
+
 > FAF-211
 
 Installing `zsh` and `oh my zsh` as a default shell.
